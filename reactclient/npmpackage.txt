@@ -1,0 +1,14 @@
+npm install nodemon
+npm install apollo-client
+
+
+ // return (<div>
+            //     {data && data.map((user) => (
+            //         <>
+            //             <li>User name :{user.id}</li>
+            //             <li>User age :{user.age}</li>
+            //             <li>User nationality :{user.nationality}</li>
+            //             <li>User username :{user.username}</li>
+            //         </>
+            //     ))}
+            // </div>
